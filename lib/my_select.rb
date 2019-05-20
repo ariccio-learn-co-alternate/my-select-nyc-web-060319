@@ -1,4 +1,6 @@
 def my_select(collection)
  new_collection = []
- collection.each
+ collection.each do |elem|
+   
+ end
 end
